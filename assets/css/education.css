@@ -1,0 +1,13 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin: 0 1rem;
+}
+
+.title, .education p {
+    margin: 1rem 0;
+}
+
